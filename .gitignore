@@ -1,0 +1,7 @@
+/__pycache__/
+/build/
+/dist/
+/gui.ui
+/main.spec
+/Pipfile
+/.vscode
